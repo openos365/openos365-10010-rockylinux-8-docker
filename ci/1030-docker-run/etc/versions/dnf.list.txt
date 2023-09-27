@@ -300,7 +300,7 @@ libstdc++.x86_64                                                  8.5.0-18.el8  
 libstdc++-devel.x86_64                                            8.5.0-18.el8                                                      @appstream
 libtasn1.x86_64                                                   4.13-4.el8_7                                                      @System   
 libthai.x86_64                                                    0.1.27-2.el8                                                      @appstream
-libtiff.x86_64                                                    4.0.9-29.el8_8                                                    @appstream
+libtiff.x86_64                                                    4.0.9-28.el8_8                                                    @appstream
 libtirpc.x86_64                                                   1.1.4-8.el8                                                       @System   
 libtool.x86_64                                                    2.4.6-25.el8                                                      @appstream
 libtool-ltdl.x86_64                                               2.4.6-25.el8                                                      @baseos   
@@ -15089,8 +15089,8 @@ softhsm-devel.x86_64                                              2.6.1-5.el8.1 
 solaar.noarch                                                     1.1.1-1.el8                                                       epel      
 solaar-doc.noarch                                                 1.1.1-1.el8                                                       epel      
 solaar-udev.noarch                                                1.1.1-1.el8                                                       epel      
-sos.noarch                                                        4.5.6-1.el8                                                       baseos    
-sos-audit.noarch                                                  4.5.6-1.el8                                                       baseos    
+sos.noarch                                                        4.6.0-2.el8                                                       baseos    
+sos-audit.noarch                                                  4.6.0-2.el8                                                       baseos    
 sound-theme-freedesktop.noarch                                    0.8-9.el8                                                         appstream 
 soundfont-utils.x86_64                                            0.4-30.el8                                                        epel      
 soundtouch.i686                                                   2.0.0-3.el8                                                       appstream 
