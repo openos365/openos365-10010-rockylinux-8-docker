@@ -15,4 +15,5 @@ tss:x:59:59:Account used for TPM access:/dev/null:/sbin/nologin
 dbus:x:81:81:System message bus:/:/sbin/nologin
 systemd-coredump:x:999:997:systemd Core Dumper:/:/sbin/nologin
 systemd-resolve:x:193:193:systemd Resolver:/:/sbin/nologin
+pesign:x:998:995:Group for the pesign signing daemon:/run/pesign:/sbin/nologin
 www:x:1000:1000::/home/www:/bin/bash
