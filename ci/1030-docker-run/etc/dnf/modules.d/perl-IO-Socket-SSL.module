@@ -1,5 +1,0 @@
-[perl-IO-Socket-SSL]
-name=perl-IO-Socket-SSL
-stream=2.066
-profiles=
-state=enabled
