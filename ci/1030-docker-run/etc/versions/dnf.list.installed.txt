@@ -298,7 +298,7 @@ libstdc++.x86_64                            8.5.0-18.el8                        
 libstdc++-devel.x86_64                      8.5.0-18.el8                              @appstream
 libtasn1.x86_64                             4.13-4.el8_7                              @System   
 libthai.x86_64                              0.1.27-2.el8                              @appstream
-libtiff.x86_64                              4.0.9-28.el8_8                            @appstream
+libtiff.x86_64                              4.0.9-29.el8_8                            @appstream
 libtirpc.x86_64                             1.1.4-8.el8                               @System   
 libtool.x86_64                              2.4.6-25.el8                              @appstream
 libtool-ltdl.x86_64                         2.4.6-25.el8                              @baseos   
