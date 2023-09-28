@@ -39,6 +39,7 @@ podman run -it docker.io/openos365/openos365-10010-rockylinux-8-docker-main-root
 
 sudo podman run -it \
 --cap-add=ALL \
+--privileged=true \
 --tmpfs /tmp \
 --tmpfs /run \
 -v /etc/resolv.conf:/etc/resolv.conf \
