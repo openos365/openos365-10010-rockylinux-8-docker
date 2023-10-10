@@ -8433,8 +8433,8 @@ libvoikko.i686                                                    4.1.1-3.el8   
 libvoikko.x86_64                                                  4.1.1-3.el8                                                       appstream 
 libvorbis.i686                                                    1:1.3.6-2.el8                                                     appstream 
 libvorbis.x86_64                                                  1:1.3.6-2.el8                                                     appstream 
-libvpx.i686                                                       1.7.0-8.el8                                                       appstream 
-libvpx.x86_64                                                     1.7.0-8.el8                                                       appstream 
+libvpx.i686                                                       1.7.0-10.el8_8                                                    appstream 
+libvpx.x86_64                                                     1.7.0-10.el8_8                                                    appstream 
 libvterm.x86_64                                                   0.3-1.el8                                                         epel      
 libvterm-devel.x86_64                                             0.3-1.el8                                                         epel      
 libvterm-tools.x86_64                                             0.3-1.el8                                                         epel      
