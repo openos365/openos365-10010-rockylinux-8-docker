@@ -274,7 +274,7 @@ libnet.x86_64                                                     1.1.6-15.el8  
 libnetfilter_conntrack.x86_64                                     1.0.6-5.el8                                                       @baseos   
 libnfnetlink.x86_64                                               1.0.1-13.el8                                                      @baseos   
 libnftnl.x86_64                                                   1.1.5-5.el8                                                       @baseos   
-libnghttp2.x86_64                                                 1.33.0-3.el8_3.1                                                  @System   
+libnghttp2.x86_64                                                 1.33.0-5.el8_8                                                    @baseos   
 libnl3.x86_64                                                     3.7.0-1.el8                                                       @baseos   
 libnsl2.x86_64                                                    1.2.0-2.20180605git4a062cf.el8                                    @System   
 libpaper.x86_64                                                   1.1.24-22.el8                                                     @appstream
@@ -7687,7 +7687,7 @@ libnfs-utils.x86_64                                               4.0.0-1.el8   
 libnfsidmap.i686                                                  1:2.3.3-59.el8                                                    baseos    
 libnfsidmap.x86_64                                                1:2.3.3-59.el8                                                    baseos    
 libnftnl.i686                                                     1.1.5-5.el8                                                       baseos    
-libnghttp2.i686                                                   1.33.0-3.el8_3.1                                                  baseos    
+libnghttp2.i686                                                   1.33.0-5.el8_8                                                    baseos    
 libnice.i686                                                      0.1.14-7.20180504git34d6044.el8                                   appstream 
 libnice.x86_64                                                    0.1.14-7.20180504git34d6044.el8                                   appstream 
 libnice-gstreamer1.i686                                           0.1.14-7.20180504git34d6044.el8                                   appstream 
