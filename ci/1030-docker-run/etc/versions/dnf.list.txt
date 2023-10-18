@@ -274,7 +274,7 @@ libnet.x86_64                                                     1.1.6-15.el8  
 libnetfilter_conntrack.x86_64                                     1.0.6-5.el8                                                       @baseos   
 libnfnetlink.x86_64                                               1.0.1-13.el8                                                      @baseos   
 libnftnl.x86_64                                                   1.1.5-5.el8                                                       @baseos   
-libnghttp2.x86_64                                                 1.33.0-3.el8_3.1                                                  @System   
+libnghttp2.x86_64                                                 1.33.0-5.el8_8                                                    @baseos   
 libnl3.x86_64                                                     3.7.0-1.el8                                                       @baseos   
 libnsl2.x86_64                                                    1.2.0-2.20180605git4a062cf.el8                                    @System   
 libpaper.x86_64                                                   1.1.24-22.el8                                                     @appstream
@@ -7687,8 +7687,7 @@ libnfs-utils.x86_64                                               4.0.0-1.el8   
 libnfsidmap.i686                                                  1:2.3.3-59.el8                                                    baseos    
 libnfsidmap.x86_64                                                1:2.3.3-59.el8                                                    baseos    
 libnftnl.i686                                                     1.1.5-5.el8                                                       baseos    
-libnghttp2.i686                                                   1.33.0-5.el8_8                                                    baseos    
-libnghttp2.x86_64                                                 1.33.0-5.el8_8                                                    baseos    
+libnghttp2.i686                                                   1.33.0-3.el8_3.1                                                  baseos    
 libnice.i686                                                      0.1.14-7.20180504git34d6044.el8                                   appstream 
 libnice.x86_64                                                    0.1.14-7.20180504git34d6044.el8                                   appstream 
 libnice-gstreamer1.i686                                           0.1.14-7.20180504git34d6044.el8                                   appstream 
@@ -13316,7 +13315,7 @@ python3-remoto.noarch                                             1.2.1-1.el8   
 python3-rencode.x86_64                                            1.0.6-17.el8                                                      epel      
 python3-reparser.noarch                                           1.4.3-1.el8                                                       epel      
 python3-repomd.noarch                                             0.2.1-9.el8                                                       epel      
-python3-reportlab.x86_64                                          3.4.0-8.el8_8.1                                                   appstream 
+python3-reportlab.x86_64                                          3.4.0-8.el8                                                       appstream 
 python3-repoze-lru.noarch                                         0.7-6.el8                                                         epel      
 python3-repoze-tm2.noarch                                         2.1-1.el8                                                         epel      
 python3-repoze-who.noarch                                         2.3-1.el8                                                         epel      
