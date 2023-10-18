@@ -7687,7 +7687,7 @@ libnfs-utils.x86_64                                               4.0.0-1.el8   
 libnfsidmap.i686                                                  1:2.3.3-59.el8                                                    baseos    
 libnfsidmap.x86_64                                                1:2.3.3-59.el8                                                    baseos    
 libnftnl.i686                                                     1.1.5-5.el8                                                       baseos    
-libnghttp2.i686                                                   1.33.0-5.el8_8                                                    baseos    
+libnghttp2.i686                                                   1.33.0-3.el8_3.1                                                  baseos    
 libnice.i686                                                      0.1.14-7.20180504git34d6044.el8                                   appstream 
 libnice.x86_64                                                    0.1.14-7.20180504git34d6044.el8                                   appstream 
 libnice-gstreamer1.i686                                           0.1.14-7.20180504git34d6044.el8                                   appstream 
