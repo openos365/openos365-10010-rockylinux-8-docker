@@ -176,7 +176,7 @@ iputils.x86_64                                                    20180629-10.el
 isl.x86_64                                                        0.16.1-6.el8                                                      @appstream
 jansson.x86_64                                                    2.14-1.el8                                                        @baseos   
 jasper-libs.x86_64                                                2.0.14-5.el8                                                      @appstream
-java-1.8.0-openjdk-headless.x86_64                                1:1.8.0.382.b05-2.el8                                             @appstream
+java-1.8.0-openjdk-headless.x86_64                                1:1.8.0.392.b08-4.el8_8                                           @appstream
 javapackages-filesystem.noarch                                    5.3.0-2.module+el8.3.0+125+5da1ae29                               @appstream
 jbig2dec-libs.x86_64                                              0.16-1.el8                                                        @appstream
 jbigkit-libs.x86_64                                               2.1-14.el8                                                        @appstream
@@ -5782,7 +5782,6 @@ java-1.8.0-openjdk.x86_64                                         1:1.8.0.392.b0
 java-1.8.0-openjdk-accessibility.x86_64                           1:1.8.0.392.b08-4.el8_8                                           appstream 
 java-1.8.0-openjdk-demo.x86_64                                    1:1.8.0.392.b08-4.el8_8                                           appstream 
 java-1.8.0-openjdk-devel.x86_64                                   1:1.8.0.392.b08-4.el8_8                                           appstream 
-java-1.8.0-openjdk-headless.x86_64                                1:1.8.0.392.b08-4.el8_8                                           appstream 
 java-1.8.0-openjdk-javadoc.noarch                                 1:1.8.0.392.b08-4.el8_8                                           appstream 
 java-1.8.0-openjdk-javadoc-zip.noarch                             1:1.8.0.392.b08-4.el8_8                                           appstream 
 java-1.8.0-openjdk-src.x86_64                                     1:1.8.0.392.b08-4.el8_8                                           appstream 
