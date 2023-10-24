@@ -519,7 +519,7 @@ pixman.x86_64                               0.38.4-2.el8                        
 pkgconf.x86_64                              1.4.2-1.el8                               @baseos   
 pkgconf-m4.noarch                           1.4.2-1.el8                               @baseos   
 pkgconf-pkg-config.x86_64                   1.4.2-1.el8                               @baseos   
-platform-python.x86_64                      3.6.8-51.el8_8.1.rocky.0                  @baseos   
+platform-python.x86_64                      3.6.8-51.el8_8.2.rocky.0                  @baseos   
 platform-python-pip.noarch                  9.0.3-22.el8.rocky.0                      @baseos   
 platform-python-setuptools.noarch           39.2.0-7.el8                              @System   
 policycoreutils.x86_64                      2.9-24.el8                                @baseos   
@@ -546,7 +546,7 @@ python3-idna.noarch                         2.5-5.el8                           
 python3-kiwi.noarch                         9.25.16-1.el8                             @epel     
 python3-libcomps.x86_64                     0.1.18-1.el8                              @System   
 python3-libdnf.x86_64                       0.63.0-14.el8_8                           @System   
-python3-libs.x86_64                         3.6.8-51.el8_8.1.rocky.0                  @baseos   
+python3-libs.x86_64                         3.6.8-51.el8_8.2.rocky.0                  @baseos   
 python3-libselinux.x86_64                   2.9-8.el8                                 @baseos   
 python3-libsemanage.x86_64                  2.9-9.el8_6                               @baseos   
 python3-lxml.x86_64                         4.2.3-4.el8                               @appstream
