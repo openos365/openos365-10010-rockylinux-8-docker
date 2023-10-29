@@ -32,11 +32,5 @@ render:!::
 systemd-journal:!::
 systemd-coredump:!::
 systemd-resolve:!::
-screen:!::
-ssh_keys:!::
-stapusr:!::
-stapsys:!::
-stapdev:!::
-pesign:!::
 www:!::
 runner:!::

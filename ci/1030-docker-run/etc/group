@@ -32,11 +32,5 @@ render:x:998:
 systemd-journal:x:190:
 systemd-coredump:x:997:
 systemd-resolve:x:193:
-screen:x:84:
-ssh_keys:x:996:
-stapusr:x:156:
-stapsys:x:157:
-stapdev:x:158:
-pesign:x:995:
 www:x:1000:
 runner:x:1001:
