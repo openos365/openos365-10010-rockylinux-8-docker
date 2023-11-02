@@ -12,7 +12,7 @@ avahi-libs.x86_64                           0.7-20.el8                          
 basesystem.noarch                           11-5.el8                                  @System   
 bash.x86_64                                 4.4.20-4.el8_6                            @System   
 bash-completion.noarch                      1:2.7-5.el8                               @baseos   
-binutils.x86_64                             2.30-119.el8                              @System   
+binutils.x86_64                             2.30-119.el8_8.2                          @baseos   
 bison.x86_64                                3.0.4-10.el8                              @appstream
 boost-atomic.x86_64                         1.66.0-13.el8                             @appstream
 boost-chrono.x86_64                         1.66.0-13.el8                             @appstream
