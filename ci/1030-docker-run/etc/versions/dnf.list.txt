@@ -3094,7 +3094,7 @@ fakeroot.x86_64                                                   1.32.1-1.el8  
 fakeroot-libs.x86_64                                              1.32.1-1.el8                                                      epel      
 fann.x86_64                                                       2.2.0-6.el8                                                       epel      
 fann-devel.x86_64                                                 2.2.0-6.el8                                                       epel      
-fapolicy-analyzer.x86_64                                          1.1.0-1.el8                                                       epel      
+fapolicy-analyzer.x86_64                                          1.2.0-1.el8                                                       epel      
 fapolicyd.x86_64                                                  1.1.3-12.el8                                                      appstream 
 fapolicyd-selinux.noarch                                          1.1.3-12.el8                                                      appstream 
 farstream02.i686                                                  0.2.8-2.el8                                                       appstream 
