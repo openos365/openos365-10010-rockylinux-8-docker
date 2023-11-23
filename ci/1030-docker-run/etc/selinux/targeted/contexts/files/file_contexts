@@ -828,7 +828,6 @@
 /sbin/losetup.*	--	system_u:object_r:fsadm_exec_t:s0
 /usr/bin/ping.*	--	system_u:object_r:ping_exec_t:s0
 /usr/bin/wine.*	--	system_u:object_r:wine_exec_t:s0
-/usr/sbin/rip.*	--	system_u:object_r:zebra_exec_t:s0
 /var/lock/LCK..	--	system_u:object_r:apcupsd_lock_t:s0
 /var/log/Xorg.*	--	system_u:object_r:xserver_log_t:s0
 /var/log/btmp.*	--	system_u:object_r:faillog_t:s0
@@ -1394,6 +1393,7 @@
 /var/lib/puppet(/.*)?	system_u:object_r:puppet_var_lib_t:s0
 /var/lib/pyzord(/.*)?	system_u:object_r:spamd_var_lib_t:s0
 /var/lib/qdiskd(/.*)?	system_u:object_r:qdiskd_var_lib_t:s0
+/var/lib/shared(/.*)?	system_u:object_r:container_ro_file_t:s0
 /var/lib/ssl_db(/.*)?	system_u:object_r:squid_cache_t:s0
 /var/lib/sss/mc(/.*)?	system_u:object_r:sssd_public_t:s0
 /var/lib/upower(/.*)?	system_u:object_r:devicekit_var_lib_t:s0
@@ -2450,6 +2450,7 @@
 /var/axfrdns/log/main(/.*)?	system_u:object_r:var_log_t:s0
 /var/cache/PackageKit(/.*)?	system_u:object_r:rpm_var_cache_t:s0
 /var/cache/cloud-what(/.*)?	system_u:object_r:cloud_what_var_cache_t:s0
+/var/cache/containers(/.*)?	system_u:object_r:container_var_lib_t:s0
 /var/cache/fontconfig(/.*)?	system_u:object_r:fonts_cache_t:s0
 /var/cache/krb5rcache(/.*)?	system_u:object_r:krb5_host_rcache_t:s0
 /var/cache/mod_gnutls(/.*)?	system_u:object_r:httpd_cache_t:s0
@@ -2481,6 +2482,7 @@
 /var/run/avahi-daemon(/.*)?	system_u:object_r:avahi_var_run_t:s0
 /var/run/dlm_controld(/.*)?	system_u:object_r:dlm_controld_var_run_t:s0
 /var/run/libvirt/qemu(/.*)?	system_u:object_r:qemu_var_run_t:s0
+/var/run/opencryptoki(/.*)?	system_u:object_r:pkcs_slotd_var_run_t:s0
 /var/run/pcscd\.events(/.*)?	system_u:object_r:pcscd_var_run_t:s0
 /var/run/sanlk-resetd(/.*)?	system_u:object_r:sanlock_var_run_t:s0
 /var/run/spamassassin(/.*)?	system_u:object_r:spamd_var_run_t:s0
@@ -2921,6 +2923,7 @@
 /opt/real/RealPlayer/codecs(/.*)?	--	system_u:object_r:textrel_shlib_t:s0
 /etc/share/selinux/targeted(/.*)?	system_u:object_r:semanage_store_t:s0
 /etc/systemd/system\.control(/.*)?	system_u:object_r:systemd_unit_file_t:s0
+/opt/local-path-provisioner(/.*)?	system_u:object_r:container_file_t:s0
 /usr/lib/ConsoleKit/scripts(/.*)?	system_u:object_r:bin_t:s0
 /usr/lib/pgsql/test/regress(/.*)?	system_u:object_r:postgresql_db_t:s0
 /usr/local/linuxprinter/ppd(/.*)?	system_u:object_r:cupsd_rw_etc_t:s0
@@ -2932,6 +2935,7 @@
 /var/lib/munin/plugin-state(/.*)?	system_u:object_r:munin_plugin_state_t:s0
 /var/lib/openshift/\.httpd\.d(/.*)?	system_u:object_r:httpd_config_t:s0
 /var/lib/squirrelmail/prefs(/.*)?	system_u:object_r:httpd_squirrelmail_t:s0
+/var/local-path-provisioner(/.*)?	system_u:object_r:container_file_t:s0
 /var/log/radiusd-freeradius(/.*)?	system_u:object_r:radiusd_log_t:s0
 /var/named/chroot/var/named(/.*)?	system_u:object_r:named_zone_t:s0
 /var/spool/postfix/deferred(/.*)?	system_u:object_r:postfix_spool_t:s0
@@ -3706,6 +3710,7 @@
 /usr/sbin/pvs	--	system_u:object_r:lvm_exec_t:s0
 /usr/sbin/sbd	--	system_u:object_r:sbd_exec_t:s0
 /usr/sbin/sln	--	system_u:object_r:ldconfig_exec_t:s0
+/usr/sbin/sos	--	system_u:object_r:sosreport_exec_t:s0
 /usr/sbin/tlp	--	system_u:object_r:tlp_exec_t:s0
 /usr/sbin/tor	--	system_u:object_r:tor_exec_t:s0
 /usr/sbin/vgs	--	system_u:object_r:lvm_exec_t:s0
@@ -3847,6 +3852,7 @@
 /usr/sbin/pptp	--	system_u:object_r:pptp_exec_t:s0
 /usr/sbin/psad	--	system_u:object_r:psad_exec_t:s0
 /usr/sbin/pump	--	system_u:object_r:dhcpc_exec_t:s0
+/usr/sbin/ripd	--	system_u:object_r:zebra_exec_t:s0
 /usr/sbin/rngd	--	system_u:object_r:rngd_exec_t:s0
 /usr/sbin/sdpd	--	system_u:object_r:bluetooth_exec_t:s0
 /usr/sbin/sesh	--	system_u:object_r:shell_exec_t:s0
@@ -4180,6 +4186,7 @@
 /usr/sbin/qdiskd	--	system_u:object_r:qdiskd_exec_t:s0
 /usr/sbin/racoon	--	system_u:object_r:racoon_exec_t:s0
 /usr/sbin/reposd	--	system_u:object_r:sblim_reposd_exec_t:s0
+/usr/sbin/ripngd	--	system_u:object_r:zebra_exec_t:s0
 /usr/sbin/rklogd	--	system_u:object_r:klogd_exec_t:s0
 /usr/sbin/setkey	--	system_u:object_r:setkey_exec_t:s0
 /usr/sbin/sfdisk	--	system_u:object_r:fsadm_exec_t:s0
@@ -6313,6 +6320,7 @@
 /usr/lib/nspluginwrapper/plugin-config	--	system_u:object_r:mozilla_plugin_config_exec_t:s0
 /usr/lib/pgsql/test/regress/pg_regress	--	system_u:object_r:postgresql_exec_t:s0
 /usr/lib/systemd/systemd-socket-proxyd	--	system_u:object_r:systemd_socket_proxyd_exec_t:s0
+/usr/libexec/openssh/ssh-pkcs11-helper	--	system_u:object_r:ssh_agent_exec_t:s0
 /usr/share/cluster/fence_scsi_check\.pl	--	system_u:object_r:fenced_exec_t:s0
 /usr/share/gnucash/finance-quote-check	--	system_u:object_r:bin_t:s0
 /usr/share/munin/plugins/http_loadtime	--	system_u:object_r:services_munin_plugin_exec_t:s0
@@ -6374,6 +6382,7 @@
 /etc/rc\.d/init\.d/openstack-glance-registry	--	system_u:object_r:glance_registry_initrc_exec_t:s0
 /etc/rc\.d/init\.d/openstack-glance-scrubber	--	system_u:object_r:glance_scrubber_initrc_exec_t:s0
 /usr/lib/policykit/polkit-read-auth-helper	--	system_u:object_r:policykit_auth_exec_t:s0
+/usr/lib/systemd/system/mimedefang\.service	--	system_u:object_r:antivirus_unit_file_t:s0
 /usr/lib/xfce4/session/balou-install-theme	--	system_u:object_r:bin_t:s0
 /usr/lib/xorg/modules/drivers/nvidia_drv\.o	--	system_u:object_r:textrel_shlib_t:s0
 /usr/share/PackageKit/pk-upgrade-distro\.sh	--	system_u:object_r:bin_t:s0
