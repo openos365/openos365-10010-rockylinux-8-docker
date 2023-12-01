@@ -32,7 +32,6 @@ render:!::
 systemd-journal:!::
 systemd-coredump:!::
 systemd-resolve:!::
-unbound:!::
 screen:!::
 ssh_keys:!::
 stapusr:!::
