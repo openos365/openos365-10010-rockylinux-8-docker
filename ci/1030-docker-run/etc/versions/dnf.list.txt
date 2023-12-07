@@ -15385,7 +15385,7 @@ squashfuse.x86_64                                                 0.1.104-1.el8 
 squashfuse-devel.x86_64                                           0.1.104-1.el8                                                     epel      
 squashfuse-libs.x86_64                                            0.1.104-1.el8                                                     epel      
 squeezelite.x86_64                                                1.9.6.1205-3.20200103git1cff80e.el8                               epel      
-squid.x86_64                                                      7:4.15-7.module+el8.9.0+1568+6d4fd5d4.1                           appstream 
+squid.x86_64                                                      7:4.15-7.module+el8.9.0+1599+7025d9cc.3                           appstream 
 squidGuard.x86_64                                                 1.4-36.el8                                                        epel      
 squidclamav.x86_64                                                7.3-1.el8                                                         epel      
 srain.x86_64                                                      1.0.2-1.el8                                                       epel      
