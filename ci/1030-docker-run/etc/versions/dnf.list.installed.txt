@@ -8,7 +8,7 @@ atk.x86_64                                  2.28.1-1.el8                        
 audit-libs.x86_64                           3.0.7-5.el8                                @System   
 autoconf.noarch                             2.69-29.el8                                @appstream
 automake.noarch                             1.16.1-8.el8                               @appstream
-avahi-libs.x86_64                           0.7-21.el8                                 @baseos   
+avahi-libs.x86_64                           0.7-21.el8_9.1                             @baseos   
 basesystem.noarch                           11-5.el8                                   @System   
 bash.x86_64                                 4.4.20-4.el8_6                             @System   
 bash-completion.noarch                      1:2.7-5.el8                                @baseos   
