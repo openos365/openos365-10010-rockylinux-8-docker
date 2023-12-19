@@ -354,8 +354,9 @@ openjpeg2.x86_64                            2.4.0-5.el8                         
 openldap.x86_64                             2.4.46-18.el8                              @System   
 openssh.x86_64                              8.0p1-19.el8_8                             @baseos   
 openssh-clients.x86_64                      8.0p1-19.el8_8                             @baseos   
-openssl.x86_64                              1:1.1.1k-9.el8_7                           @baseos   
-openssl-libs.x86_64                         1:1.1.1k-9.el8_7                           @System   
+openssl.x86_64                              1:1.1.1k-12.el8_9                          @baseos   
+openssl-libs.x86_64                         1:1.1.1k-12.el8_9                          @baseos   
+openssl-pkcs11.x86_64                       0.4.10-3.el8                               @baseos   
 os-prober.x86_64                            1.74-9.el8                                 @baseos   
 p11-kit.x86_64                              0.23.22-1.el8                              @System   
 p11-kit-trust.x86_64                        0.23.22-1.el8                              @System   
