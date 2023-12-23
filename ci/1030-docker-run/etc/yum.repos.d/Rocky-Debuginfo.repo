@@ -1,7 +1,7 @@
 # Rocky-Debuginfo.repo
 #
 
-[baseos-debug]
+[baseos-debuginfo]
 name=Rocky Linux $releasever - BaseOS - Source
 mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=BaseOS-$releasever-debug
 #baseurl=http://dl.rockylinux.org/$contentdir/$releasever/BaseOS/$basearch/debug/tree/
@@ -9,7 +9,7 @@ gpgcheck=1
 enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial
 
-[appstream-debug]
+[appstream-debuginfo]
 name=Rocky Linux $releasever - AppStream - Source
 mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=AppStream-$releasever-debug
 #baseurl=http://dl.rockylinux.org/$contentdir/$releasever/AppStream/$basearch/debug/tree/
@@ -17,7 +17,7 @@ gpgcheck=1
 enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial
 
-[ha-debug]
+[ha-debuginfo]
 name=Rocky Linux $releasever - High Availability - Source
 mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=HighAvailability-$releasever-debug
 #baseurl=http://dl.rockylinux.org/$contentdir/$releasever/HighAvailability/$basearch/debug/tree/
@@ -25,7 +25,7 @@ gpgcheck=1
 enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial
 
-[powertools-debug]
+[powertools-debuginfo]
 name=Rocky Linux $releasever - PowerTools - Source
 mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=PowerTools-$releasever-debug
 #baseurl=http://dl.rockylinux.org/$contentdir/$releasever/PowerTools/$basearch/debug/tree/
@@ -33,7 +33,7 @@ gpgcheck=1
 enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial
 
-[resilient-storage-debug]
+[resilient-storage-debuginfo]
 name=Rocky Linux $releasever - Resilient Storage - Source
 mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=ResilientStorage-$releasever-debug
 #baseurl=http://dl.rockylinux.org/$contentdir/$releasever/ResilientStorage/$basearch/debug/tree/

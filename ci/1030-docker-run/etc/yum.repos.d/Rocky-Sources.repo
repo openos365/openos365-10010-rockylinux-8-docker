@@ -27,7 +27,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial
 #[plus-source]
 #name=Rocky Linux $releasever - Plus - Source
 #mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=source&repo=plus-$releasever-source
-#baseurl=http://dl.rockylinux.org/$contentdir/$releasever/Plus/source/tree/
+#baseurl=http://dl.rockylinux.org/$contentdir/$releasever/plus/source/tree/
 #gpgcheck=1
 #enabled=0
 #gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial

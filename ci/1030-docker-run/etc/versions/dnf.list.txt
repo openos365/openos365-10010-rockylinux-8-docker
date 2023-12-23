@@ -579,9 +579,9 @@ qemu-img.x86_64                                                   15:6.2.0-40.mo
 qt5-srpm-macros.noarch                                            5.15.3-1.el8                                                      @appstream
 readline.x86_64                                                   7.0-10.el8                                                        @System   
 redhat-rpm-config.noarch                                          131-1.el8                                                         @appstream
-rocky-gpg-keys.noarch                                             8.9-1.6.el8                                                       @System   
-rocky-release.noarch                                              8.9-1.6.el8                                                       @System   
-rocky-repos.noarch                                                8.9-1.6.el8                                                       @System   
+rocky-gpg-keys.noarch                                             8.9-1.8.el8                                                       @baseos   
+rocky-release.noarch                                              8.9-1.8.el8                                                       @baseos   
+rocky-repos.noarch                                                8.9-1.8.el8                                                       @baseos   
 rootfiles.noarch                                                  8.1-22.el8                                                        @System   
 rpm.x86_64                                                        4.14.3-26.el8                                                     @System   
 rpm-build.x86_64                                                  4.14.3-26.el8                                                     @appstream
