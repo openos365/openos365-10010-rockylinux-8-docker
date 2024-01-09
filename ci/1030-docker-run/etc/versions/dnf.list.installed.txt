@@ -620,8 +620,8 @@ tar.x86_64                                  2:1.30-9.el8                        
 tbb.x86_64                                  2018.2-9.el8                               @appstream
 tcl.x86_64                                  1:8.6.8-2.el8                              @baseos   
 tpm2-tss.x86_64                             2.3.2-5.el8                                @System   
-tzdata.noarch                               2023c-2.el8                                @System   
-tzdata-java.noarch                          2023c-2.el8                                @appstream
+tzdata.noarch                               2023d-1.el8                                @baseos   
+tzdata-java.noarch                          2023d-1.el8                                @appstream
 unzip.x86_64                                6.0-46.el8                                 @baseos   
 urw-base35-bookman-fonts.noarch             20170801-10.el8                            @appstream
 urw-base35-c059-fonts.noarch                20170801-10.el8                            @appstream
