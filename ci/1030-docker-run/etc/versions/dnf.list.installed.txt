@@ -342,12 +342,12 @@ nettle.x86_64                               3.4.1-7.el8                         
 nftables.x86_64                             1:1.0.4-3.el8_9                            @baseos   
 npth.x86_64                                 1.5-4.el8                                  @System   
 nspr.x86_64                                 4.35.0-1.el8_8                             @appstream
-nss.x86_64                                  3.90.0-3.el8_8                             @appstream
-nss-softokn.x86_64                          3.90.0-3.el8_8                             @appstream
-nss-softokn-freebl.x86_64                   3.90.0-3.el8_8                             @appstream
-nss-sysinit.x86_64                          3.90.0-3.el8_8                             @appstream
-nss-tools.x86_64                            3.90.0-3.el8_8                             @appstream
-nss-util.x86_64                             3.90.0-3.el8_8                             @appstream
+nss.x86_64                                  3.90.0-4.el8_9                             @appstream
+nss-softokn.x86_64                          3.90.0-4.el8_9                             @appstream
+nss-softokn-freebl.x86_64                   3.90.0-4.el8_9                             @appstream
+nss-sysinit.x86_64                          3.90.0-4.el8_9                             @appstream
+nss-tools.x86_64                            3.90.0-4.el8_9                             @appstream
+nss-util.x86_64                             3.90.0-4.el8_9                             @appstream
 ocaml-srpm-macros.noarch                    5-4.el8                                    @appstream
 openblas-srpm-macros.noarch                 2-2.el8                                    @appstream
 openjpeg2.x86_64                            2.4.0-5.el8                                @appstream
@@ -515,7 +515,7 @@ perl-utils.noarch                           5.26.3-422.el8                      
 perl-version.x86_64                         6:0.99.24-1.el8                            @appstream
 pesign.x86_64                               0.112-27.el8_7                             @appstream
 pigz.x86_64                                 2.4-4.el8                                  @baseos   
-pixman.x86_64                               0.38.4-2.el8                               @appstream
+pixman.x86_64                               0.38.4-3.el8_9                             @appstream
 pkgconf.x86_64                              1.4.2-1.el8                                @baseos   
 pkgconf-m4.noarch                           1.4.2-1.el8                                @baseos   
 pkgconf-pkg-config.x86_64                   1.4.2-1.el8                                @baseos   
@@ -573,7 +573,7 @@ python3.11-libs.x86_64                      3.11.5-1.el8_9                      
 python3.11-pip-wheel.noarch                 22.3.1-4.el8                               @appstream
 python3.11-setuptools-wheel.noarch          65.5.1-2.el8                               @appstream
 python36.x86_64                             3.6.8-38.module+el8.5.0+671+195e4563       @appstream
-qemu-img.x86_64                             15:6.2.0-40.module+el8.9.0+1567+092638a5.1 @appstream
+qemu-img.x86_64                             15:6.2.0-40.module+el8.9.0+1654+f4df84c4.2 @appstream
 qt5-srpm-macros.noarch                      5.15.3-1.el8                               @appstream
 readline.x86_64                             7.0-10.el8                                 @System   
 redhat-rpm-config.noarch                    131-1.el8                                  @appstream
