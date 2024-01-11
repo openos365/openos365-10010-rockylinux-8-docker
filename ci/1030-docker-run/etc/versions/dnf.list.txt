@@ -137,7 +137,7 @@ glibc-headers.x86_64                                              2.28-236.el8_9
 glibc-minimal-langpack.x86_64                                     2.28-236.el8_9.7                                                  @System   
 gmp.x86_64                                                        1:6.1.2-10.el8                                                    @System   
 gnupg2.x86_64                                                     2.2.20-3.el8_6                                                    @System   
-gnutls.x86_64                                                     3.6.16-8.el8_9                                                    @baseos   
+gnutls.x86_64                                                     3.6.16-7.el8                                                      @System   
 go-srpm-macros.noarch                                             2-17.el8                                                          @appstream
 gobject-introspection.x86_64                                      1.56.1-1.el8                                                      @baseos   
 google-droid-sans-fonts.noarch                                    20120715-13.el8                                                   @appstream
@@ -184,7 +184,7 @@ json-c.x86_64                                                     0.13.1-3.el8  
 kbd.x86_64                                                        2.0.4-11.el8                                                      @baseos   
 kbd-legacy.noarch                                                 2.0.4-11.el8                                                      @baseos   
 kbd-misc.noarch                                                   2.0.4-11.el8                                                      @baseos   
-kernel-headers.x86_64                                             4.18.0-513.11.1.el8_9                                             @baseos   
+kernel-headers.x86_64                                             4.18.0-513.9.1.el8_9                                              @baseos   
 keyutils-libs.x86_64                                              1.5.10-9.el8                                                      @System   
 kiwi-cli.noarch                                                   9.25.21-2.el8                                                     @epel     
 kiwi-systemdeps.x86_64                                            9.25.21-2.el8                                                     @epel     
@@ -232,7 +232,7 @@ libattr.x86_64                                                    2.4.48-3.el8  
 libbabeltrace.x86_64                                              1.5.4-4.el8                                                       @baseos   
 libblkid.x86_64                                                   2.32.1-43.el8                                                     @System   
 libburn.x86_64                                                    1.4.8-3.el8                                                       @appstream
-libcap.x86_64                                                     2.48-6.el8_9                                                      @baseos   
+libcap.x86_64                                                     2.48-5.el8_8                                                      @System   
 libcap-ng.x86_64                                                  0.7.11-1.el8                                                      @System   
 libcom_err.x86_64                                                 1.45.6-5.el8                                                      @System   
 libcomps.x86_64                                                   0.1.18-1.el8                                                      @System   
@@ -313,7 +313,7 @@ libwebp.x86_64                                                    1.0.0-9.el8_9.
 libxcb.x86_64                                                     1.13.1-1.el8                                                      @appstream
 libxcrypt.x86_64                                                  4.1.1-6.el8                                                       @System   
 libxcrypt-devel.x86_64                                            4.1.1-6.el8                                                       @baseos   
-libxml2.x86_64                                                    2.9.7-18.el8_9                                                    @baseos   
+libxml2.x86_64                                                    2.9.7-16.el8_8.1                                                  @System   
 libxslt.x86_64                                                    1.1.32-6.el8                                                      @baseos   
 libyaml.x86_64                                                    0.1.7-5.el8                                                       @System   
 libzstd.x86_64                                                    1.4.4-1.el8                                                       @System   
@@ -344,12 +344,12 @@ nettle.x86_64                                                     3.4.1-7.el8   
 nftables.x86_64                                                   1:1.0.4-3.el8_9                                                   @baseos   
 npth.x86_64                                                       1.5-4.el8                                                         @System   
 nspr.x86_64                                                       4.35.0-1.el8_8                                                    @appstream
-nss.x86_64                                                        3.90.0-4.el8_9                                                    @appstream
-nss-softokn.x86_64                                                3.90.0-4.el8_9                                                    @appstream
-nss-softokn-freebl.x86_64                                         3.90.0-4.el8_9                                                    @appstream
-nss-sysinit.x86_64                                                3.90.0-4.el8_9                                                    @appstream
-nss-tools.x86_64                                                  3.90.0-4.el8_9                                                    @appstream
-nss-util.x86_64                                                   3.90.0-4.el8_9                                                    @appstream
+nss.x86_64                                                        3.90.0-3.el8_8                                                    @appstream
+nss-softokn.x86_64                                                3.90.0-3.el8_8                                                    @appstream
+nss-softokn-freebl.x86_64                                         3.90.0-3.el8_8                                                    @appstream
+nss-sysinit.x86_64                                                3.90.0-3.el8_8                                                    @appstream
+nss-tools.x86_64                                                  3.90.0-3.el8_8                                                    @appstream
+nss-util.x86_64                                                   3.90.0-3.el8_8                                                    @appstream
 ocaml-srpm-macros.noarch                                          5-4.el8                                                           @appstream
 openblas-srpm-macros.noarch                                       2-2.el8                                                           @appstream
 openjpeg2.x86_64                                                  2.4.0-5.el8                                                       @appstream
@@ -517,11 +517,11 @@ perl-utils.noarch                                                 5.26.3-422.el8
 perl-version.x86_64                                               6:0.99.24-1.el8                                                   @appstream
 pesign.x86_64                                                     0.112-27.el8_7                                                    @appstream
 pigz.x86_64                                                       2.4-4.el8                                                         @baseos   
-pixman.x86_64                                                     0.38.4-3.el8_9                                                    @appstream
+pixman.x86_64                                                     0.38.4-2.el8                                                      @appstream
 pkgconf.x86_64                                                    1.4.2-1.el8                                                       @baseos   
 pkgconf-m4.noarch                                                 1.4.2-1.el8                                                       @baseos   
 pkgconf-pkg-config.x86_64                                         1.4.2-1.el8                                                       @baseos   
-platform-python.x86_64                                            3.6.8-56.el8_9.2.rocky.0                                          @baseos   
+platform-python.x86_64                                            3.6.8-56.el8_9.rocky.0                                            @System   
 platform-python-pip.noarch                                        9.0.3-23.el8.rocky.0                                              @baseos   
 platform-python-setuptools.noarch                                 39.2.0-7.el8                                                      @System   
 policycoreutils.x86_64                                            2.9-24.el8                                                        @baseos   
@@ -548,7 +548,7 @@ python3-idna.noarch                                               2.5-5.el8     
 python3-kiwi.noarch                                               9.25.21-2.el8                                                     @epel     
 python3-libcomps.x86_64                                           0.1.18-1.el8                                                      @System   
 python3-libdnf.x86_64                                             0.63.0-17.el8_9                                                   @System   
-python3-libs.x86_64                                               3.6.8-56.el8_9.2.rocky.0                                          @baseos   
+python3-libs.x86_64                                               3.6.8-56.el8_9.rocky.0                                            @System   
 python3-libselinux.x86_64                                         2.9-8.el8                                                         @baseos   
 python3-libsemanage.x86_64                                        2.9-9.el8_6                                                       @baseos   
 python3-lxml.x86_64                                               4.2.3-4.el8                                                       @appstream
@@ -568,14 +568,14 @@ python3-simplejson.x86_64                                         3.17.0-2.el8  
 python3-six.noarch                                                1.11.0-8.el8                                                      @baseos   
 python3-systemd.x86_64                                            234-8.el8                                                         @baseos   
 python3-typing-extensions.noarch                                  3.7.4.3-2.el8                                                     @epel     
-python3-urllib3.noarch                                            1.24.2-5.el8_9.2                                                  @baseos   
+python3-urllib3.noarch                                            1.24.2-5.el8                                                      @baseos   
 python3-webencodings.noarch                                       0.5.1-6.el8                                                       @appstream
 python3.11.x86_64                                                 3.11.5-1.el8_9                                                    @appstream
 python3.11-libs.x86_64                                            3.11.5-1.el8_9                                                    @appstream
 python3.11-pip-wheel.noarch                                       22.3.1-4.el8                                                      @appstream
 python3.11-setuptools-wheel.noarch                                65.5.1-2.el8                                                      @appstream
 python36.x86_64                                                   3.6.8-38.module+el8.5.0+671+195e4563                              @appstream
-qemu-img.x86_64                                                   15:6.2.0-40.module+el8.9.0+1654+f4df84c4.2                        @appstream
+qemu-img.x86_64                                                   15:6.2.0-40.module+el8.9.0+1567+092638a5.1                        @appstream
 qt5-srpm-macros.noarch                                            5.15.3-1.el8                                                      @appstream
 readline.x86_64                                                   7.0-10.el8                                                        @System   
 redhat-rpm-config.noarch                                          131-1.el8                                                         @appstream
@@ -594,8 +594,8 @@ runc.x86_64                                                       1:1.1.9-1.modu
 rust-srpm-macros.noarch                                           5-2.el8                                                           @appstream
 screen.x86_64                                                     4.6.2-12.el8                                                      @epel     
 sed.x86_64                                                        4.5-5.el8                                                         @System   
-selinux-policy.noarch                                             3.14.3-128.el8_9.1                                                @baseos   
-selinux-policy-targeted.noarch                                    3.14.3-128.el8_9.1                                                @baseos   
+selinux-policy.noarch                                             3.14.3-128.el8                                                    @baseos   
+selinux-policy-targeted.noarch                                    3.14.3-128.el8                                                    @baseos   
 setup.noarch                                                      2.12.2-9.el8                                                      @System   
 sgml-common.noarch                                                0.6.3-50.el8                                                      @baseos   
 shadow-utils.x86_64                                               2:4.6-19.el8                                                      @System   
@@ -622,8 +622,6 @@ tar.x86_64                                                        2:1.30-9.el8  
 tbb.x86_64                                                        2018.2-9.el8                                                      @appstream
 tcl.x86_64                                                        1:8.6.8-2.el8                                                     @baseos   
 tpm2-tss.x86_64                                                   2.3.2-5.el8                                                       @System   
-trousers.x86_64                                                   0.3.15-1.el8                                                      @baseos   
-trousers-lib.x86_64                                               0.3.15-1.el8                                                      @baseos   
 tzdata.noarch                                                     2023d-1.el8                                                       @baseos   
 tzdata-java.noarch                                                2023d-1.el8                                                       @appstream
 unzip.x86_64                                                      6.0-46.el8                                                        @baseos   
@@ -4881,6 +4879,7 @@ gnustep-filesystem.x86_64                                         2.9.0-3.el8   
 gnustep-make.x86_64                                               2.9.0-3.el8                                                       epel      
 gnustep-make-doc.noarch                                           2.9.0-3.el8                                                       epel      
 gnutls.i686                                                       3.6.16-8.el8_9                                                    baseos    
+gnutls.x86_64                                                     3.6.16-8.el8_9                                                    baseos    
 gnutls-c++.i686                                                   3.6.16-8.el8_9                                                    appstream 
 gnutls-c++.x86_64                                                 3.6.16-8.el8_9                                                    appstream 
 gnutls-dane.i686                                                  3.6.16-8.el8_9                                                    appstream 
@@ -6196,6 +6195,7 @@ kernel-debug-modules.x86_64                                       4.18.0-513.11.
 kernel-debug-modules-extra.x86_64                                 4.18.0-513.11.1.el8_9                                             baseos    
 kernel-devel.x86_64                                               4.18.0-513.11.1.el8_9                                             baseos    
 kernel-doc.noarch                                                 4.18.0-513.11.1.el8_9                                             baseos    
+kernel-headers.x86_64                                             4.18.0-513.11.1.el8_9                                             baseos    
 kernel-modules.x86_64                                             4.18.0-513.11.1.el8_9                                             baseos    
 kernel-modules-extra.x86_64                                       4.18.0-513.11.1.el8_9                                             baseos    
 kernel-rpm-macros.noarch                                          131-1.el8                                                         appstream 
@@ -7140,6 +7140,7 @@ libcanberra-gtk2.x86_64                                           0.30-18.el8   
 libcanberra-gtk3.i686                                             0.30-18.el8                                                       appstream 
 libcanberra-gtk3.x86_64                                           0.30-18.el8                                                       appstream 
 libcap.i686                                                       2.48-6.el8_9                                                      baseos    
+libcap.x86_64                                                     2.48-6.el8_9                                                      baseos    
 libcap-devel.i686                                                 2.48-6.el8_9                                                      baseos    
 libcap-devel.x86_64                                               2.48-6.el8_9                                                      baseos    
 libcap-ng.i686                                                    0.7.11-1.el8                                                      baseos    
@@ -8667,6 +8668,7 @@ libxml++.x86_64                                                   2.40.1-10.el8 
 libxml++-devel.x86_64                                             2.40.1-10.el8                                                     epel      
 libxml++-doc.noarch                                               2.40.1-10.el8                                                     epel      
 libxml2.i686                                                      2.9.7-18.el8_9                                                    baseos    
+libxml2.x86_64                                                    2.9.7-18.el8_9                                                    baseos    
 libxml2-devel.i686                                                2.9.7-18.el8_9                                                    appstream 
 libxml2-devel.x86_64                                              2.9.7-18.el8_9                                                    appstream 
 libxmlb.i686                                                      0.1.15-1.el8                                                      baseos    
@@ -9858,6 +9860,7 @@ nspr.i686                                                         4.35.0-1.el8_8
 nspr-devel.i686                                                   4.35.0-1.el8_8                                                    appstream 
 nspr-devel.x86_64                                                 4.35.0-1.el8_8                                                    appstream 
 nss.i686                                                          3.90.0-4.el8_9                                                    appstream 
+nss.x86_64                                                        3.90.0-4.el8_9                                                    appstream 
 nss-altfiles.i686                                                 2.18.1-12.el8                                                     appstream 
 nss-altfiles.x86_64                                               2.18.1-12.el8                                                     appstream 
 nss-devel.i686                                                    3.90.0-4.el8_9                                                    appstream 
@@ -9866,12 +9869,17 @@ nss-mdns.x86_64                                                   0.14.1-9.el8  
 nss-pam-ldapd.i686                                                0.9.9-5.el8                                                       appstream 
 nss-pam-ldapd.x86_64                                              0.9.9-5.el8                                                       appstream 
 nss-softokn.i686                                                  3.90.0-4.el8_9                                                    appstream 
+nss-softokn.x86_64                                                3.90.0-4.el8_9                                                    appstream 
 nss-softokn-devel.i686                                            3.90.0-4.el8_9                                                    appstream 
 nss-softokn-devel.x86_64                                          3.90.0-4.el8_9                                                    appstream 
 nss-softokn-freebl.i686                                           3.90.0-4.el8_9                                                    appstream 
+nss-softokn-freebl.x86_64                                         3.90.0-4.el8_9                                                    appstream 
 nss-softokn-freebl-devel.i686                                     3.90.0-4.el8_9                                                    appstream 
 nss-softokn-freebl-devel.x86_64                                   3.90.0-4.el8_9                                                    appstream 
+nss-sysinit.x86_64                                                3.90.0-4.el8_9                                                    appstream 
+nss-tools.x86_64                                                  3.90.0-4.el8_9                                                    appstream 
 nss-util.i686                                                     3.90.0-4.el8_9                                                    appstream 
+nss-util.x86_64                                                   3.90.0-4.el8_9                                                    appstream 
 nss-util-devel.i686                                               3.90.0-4.el8_9                                                    appstream 
 nss-util-devel.x86_64                                             3.90.0-4.el8_9                                                    appstream 
 nss_db.i686                                                       2.28-236.el8_9.7                                                  baseos    
@@ -11729,6 +11737,7 @@ pipewire0.2-devel.x86_64                                          0.2.7-6.el8   
 pipewire0.2-libs.i686                                             0.2.7-6.el8                                                       appstream 
 pipewire0.2-libs.x86_64                                           0.2.7-6.el8                                                       appstream 
 pixman.i686                                                       0.38.4-3.el8_9                                                    appstream 
+pixman.x86_64                                                     0.38.4-3.el8_9                                                    appstream 
 pixman-devel.i686                                                 0.38.4-3.el8_9                                                    appstream 
 pixman-devel.x86_64                                               0.38.4-3.el8_9                                                    appstream 
 pjproject.x86_64                                                  2.9-2.el8                                                         epel      
@@ -11804,6 +11813,7 @@ plasma-workspace-x11.x86_64                                       5.24.7-1.el8  
 platform.x86_64                                                   2.1.0.1-8.el8                                                     epel      
 platform-devel.x86_64                                             2.1.0.1-8.el8                                                     epel      
 platform-python.i686                                              3.6.8-56.el8_9.2.rocky.0                                          appstream 
+platform-python.x86_64                                            3.6.8-56.el8_9.2.rocky.0                                          baseos    
 platform-python-coverage.x86_64                                   4.5.1-9.el8                                                       appstream 
 platform-python-debug.i686                                        3.6.8-56.el8_9.2.rocky.0                                          appstream 
 platform-python-debug.x86_64                                      3.6.8-56.el8_9.2.rocky.0                                          appstream 
@@ -13090,6 +13100,7 @@ python3-libproxy.noarch                                           0.4.15-5.2.el8
 python3-librepo.x86_64                                            1.14.2-4.el8                                                      baseos    
 python3-libreport.x86_64                                          2.9.5-15.el8.rocky.6.3                                            appstream 
 python3-libs.i686                                                 3.6.8-56.el8_9.2.rocky.0                                          baseos    
+python3-libs.x86_64                                               3.6.8-56.el8_9.2.rocky.0                                          baseos    
 python3-libsss_nss_idmap.x86_64                                   2.9.1-4.el8_9                                                     baseos    
 python3-libstoragemgmt.i686                                       1.9.1-7.el8                                                       baseos    
 python3-libstoragemgmt.x86_64                                     1.9.1-7.el8                                                       baseos    
@@ -13769,6 +13780,7 @@ python3-uritemplate.noarch                                        3.0.0-10.el8  
 python3-urlbuster.noarch                                          0.5.0-2.el8                                                       epel      
 python3-urlgrabber.noarch                                         4.1.0-2.el8                                                       epel      
 python3-urllib-gssapi.noarch                                      1.0.1-8.el8                                                       epel      
+python3-urllib3.noarch                                            1.24.2-5.el8_9.2                                                  baseos    
 python3-urwid.x86_64                                              1.3.1-4.el8                                                       baseos    
 python3-utils.noarch                                              2.5.6-1.el8                                                       epel      
 python3-uwsgidecorators.x86_64                                    2.0.23-1.el8                                                      epel      
@@ -14074,6 +14086,7 @@ qcachegrind.x86_64                                                22.04.1-2.el8 
 qelectrotech.x86_64                                               0.90-1.el8                                                        epel      
 qelectrotech-symbols.noarch                                       0.90-1.el8                                                        epel      
 qemu-guest-agent.x86_64                                           15:6.2.0-40.module+el8.9.0+1654+f4df84c4.2                        appstream 
+qemu-img.x86_64                                                   15:6.2.0-40.module+el8.9.0+1654+f4df84c4.2                        appstream 
 qemu-kvm.x86_64                                                   15:6.2.0-40.module+el8.9.0+1654+f4df84c4.2                        appstream 
 qemu-kvm-block-curl.x86_64                                        15:6.2.0-40.module+el8.9.0+1654+f4df84c4.2                        appstream 
 qemu-kvm-block-gluster.x86_64                                     15:6.2.0-40.module+el8.9.0+1654+f4df84c4.2                        appstream 
@@ -15136,11 +15149,13 @@ sec.noarch                                                        2.9.2-1.el8   
 secilc.x86_64                                                     2.9-2.el8                                                         epel      
 secilc-doc.noarch                                                 2.9-2.el8                                                         epel      
 sedutil.x86_64                                                    1.20.0-2.el8                                                      epel      
+selinux-policy.noarch                                             3.14.3-128.el8_9.1                                                baseos    
 selinux-policy-devel.noarch                                       3.14.3-128.el8_9.1                                                baseos    
 selinux-policy-doc.noarch                                         3.14.3-128.el8_9.1                                                baseos    
 selinux-policy-minimum.noarch                                     3.14.3-128.el8_9.1                                                baseos    
 selinux-policy-mls.noarch                                         3.14.3-128.el8_9.1                                                baseos    
 selinux-policy-sandbox.noarch                                     3.14.3-128.el8_9.1                                                baseos    
+selinux-policy-targeted.noarch                                    3.14.3-128.el8_9.1                                                baseos    
 sendemail.noarch                                                  1.56-4.el8                                                        epel      
 sendmail.x86_64                                                   8.15.2-34.el8                                                     appstream 
 sendmail-cf.noarch                                                8.15.2-34.el8                                                     appstream 
@@ -16432,7 +16447,9 @@ tree.x86_64                                                       1.7.0-15.el8  
 treescan.noarch                                                   4.72-1.el8                                                        epel      
 tripwire.x86_64                                                   2.4.3.7-16.el8                                                    epel      
 trojan.x86_64                                                     1.16.0-4.el8                                                      epel      
+trousers.x86_64                                                   0.3.15-1.el8                                                      baseos    
 trousers-lib.i686                                                 0.3.15-1.el8                                                      baseos    
+trousers-lib.x86_64                                               0.3.15-1.el8                                                      baseos    
 tsl-sparse-map-devel.x86_64                                       0.6.2-2.el8                                                       epel      
 tslib.x86_64                                                      1.22-4.el8                                                        epel      
 tslib-devel.x86_64                                                1.22-4.el8                                                        epel      
