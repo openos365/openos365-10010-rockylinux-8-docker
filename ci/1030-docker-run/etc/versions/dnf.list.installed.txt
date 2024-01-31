@@ -352,8 +352,8 @@ ocaml-srpm-macros.noarch                    5-4.el8                             
 openblas-srpm-macros.noarch                 2-2.el8                                    @appstream
 openjpeg2.x86_64                            2.4.0-5.el8                                @appstream
 openldap.x86_64                             2.4.46-18.el8                              @System   
-openssh.x86_64                              8.0p1-19.el8_9.2                           @baseos   
-openssh-clients.x86_64                      8.0p1-19.el8_9.2                           @baseos   
+openssh.x86_64                              8.0p1-19.el8_8                             @baseos   
+openssh-clients.x86_64                      8.0p1-19.el8_8                             @baseos   
 openssl.x86_64                              1:1.1.1k-12.el8_9                          @baseos   
 openssl-libs.x86_64                         1:1.1.1k-12.el8_9                          @baseos   
 openssl-pkcs11.x86_64                       0.4.10-3.el8                               @baseos   
