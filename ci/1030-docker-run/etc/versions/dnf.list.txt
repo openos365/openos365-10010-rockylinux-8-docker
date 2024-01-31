@@ -10148,12 +10148,12 @@ opensm-libs.i686                                                  3.3.24-1.el8  
 opensm-libs.x86_64                                                3.3.24-1.el8                                                      baseos    
 opensmtpd.x86_64                                                  6.8.0p2-3.el8                                                     epel      
 openssh-askpass.x86_64                                            8.0p1-19.el8_9.2                                                  appstream 
-openssh-cavs.x86_64                                               8.0p1-19.el8_8                                                    baseos    
-openssh-keycat.x86_64                                             8.0p1-19.el8_8                                                    baseos    
-openssh-ldap.x86_64                                               8.0p1-19.el8_8                                                    baseos    
+openssh-cavs.x86_64                                               8.0p1-19.el8_9.2                                                  baseos    
+openssh-keycat.x86_64                                             8.0p1-19.el8_9.2                                                  baseos    
+openssh-ldap.x86_64                                               8.0p1-19.el8_9.2                                                  baseos    
 openssh-ldap-authkeys.noarch                                      0.2.0^git20230224.62ece4b-1.el8                                   epel      
 openssh-ldap-authkeys-selinux.noarch                              0.2.0^git20230224.62ece4b-1.el8                                   epel      
-openssh-server.x86_64                                             8.0p1-19.el8_8                                                    baseos    
+openssh-server.x86_64                                             8.0p1-19.el8_9.2                                                  baseos    
 openssl-devel.i686                                                1:1.1.1k-12.el8_9                                                 baseos    
 openssl-devel.x86_64                                              1:1.1.1k-12.el8_9                                                 baseos    
 openssl-ibmpkcs11.x86_64                                          1.0.2-1.el8                                                       baseos    
@@ -10289,7 +10289,7 @@ pam_passwdqc.x86_64                                               2.0.3-2.el8   
 pam_radius.x86_64                                                 2.0.0-3.el8                                                       epel      
 pam_script.x86_64                                                 1.1.9-7.el8                                                       epel      
 pam_ssh.x86_64                                                    2.3-2.el8                                                         epel      
-pam_ssh_agent_auth.x86_64                                         0.10.3-7.19.el8_8                                                 baseos    
+pam_ssh_agent_auth.x86_64                                         0.10.3-7.19.el8_9.2                                               baseos    
 pam_ssh_user_auth.x86_64                                          1.0-4.el8                                                         epel      
 pam_url.x86_64                                                    1:0.3.3-12.el8                                                    epel      
 pam_yubico.x86_64                                                 2.26-4.el8                                                        epel      
