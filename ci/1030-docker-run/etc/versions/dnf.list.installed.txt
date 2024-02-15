@@ -604,7 +604,7 @@ source-highlight.x86_64                     3.1.8-17.el8                        
 sqlite-libs.x86_64                          3.26.0-19.el8_9                            @baseos   
 squashfs-tools.x86_64                       4.3-20.el8                                 @baseos   
 strace.x86_64                               5.18-2.el8                                 @baseos   
-sudo.x86_64                                 1.8.29-10.el8                              @baseos   
+sudo.x86_64                                 1.9.5p2-1.el8_9                            @baseos   
 syslinux.x86_64                             6.04-6.el8                                 @baseos   
 syslinux-nonlinux.noarch                    6.04-6.el8                                 @baseos   
 systemd.x86_64                              239-78.el8                                 @System   
