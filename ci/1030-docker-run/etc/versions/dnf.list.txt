@@ -9173,7 +9173,7 @@ mediainfo.x86_64                                                  23.09-1.el8   
 mediainfo-gui.x86_64                                              23.09-1.el8                                                       epel      
 mediainfo-qt.x86_64                                               23.09-1.el8                                                       epel      
 medusa.x86_64                                                     2.2-15.20181216git292193b.el8                                     epel      
-meld.noarch                                                       3.20.4-2.el8                                                      epel      
+meld.noarch                                                       3.20.4-3.el8                                                      epel      
 memavaild.noarch                                                  0.6-1.el8                                                         epel      
 memcached.x86_64                                                  1.5.22-2.el8                                                      appstream 
 memkind.x86_64                                                    1.10.1-1.el8                                                      appstream 
@@ -10037,7 +10037,7 @@ okular-part.x86_64                                                22.04.1-1.el8 
 omping.x86_64                                                     0.0.4-18.el8                                                      appstream 
 onednn.x86_64                                                     1.5-1.el8                                                         epel      
 onednn-devel.x86_64                                               1.5-1.el8                                                         epel      
-onedrive.x86_64                                                   2.4.23-2.el8                                                      epel      
+onedrive.x86_64                                                   2.4.25-1.el8                                                      epel      
 onesixtyone.x86_64                                                0.3.4-1.el8                                                       epel      
 ongres-scram.noarch                                               1.0.0~beta.2-5.el8                                                appstream 
 ongres-scram-client.noarch                                        1.0.0~beta.2-5.el8                                                appstream 
@@ -17316,7 +17316,7 @@ youtube-dl.noarch                                                 2023.08.04.git
 yp-tools.x86_64                                                   4.2.3-2.el8                                                       appstream 
 ypbind.x86_64                                                     3:2.5-2.el8                                                       appstream 
 ypserv.x86_64                                                     4.1-1.el8                                                         appstream 
-ytree.x86_64                                                      2.05-1.el8                                                        epel      
+ytree.x86_64                                                      2.07-1.el8                                                        epel      
 yubico-piv-tool.x86_64                                            2.2.0-1.el8                                                       epel      
 yubico-piv-tool-devel.x86_64                                      2.2.0-1.el8                                                       epel      
 yubihsm-connector.x86_64                                          3.0.2-2.el8                                                       epel      
