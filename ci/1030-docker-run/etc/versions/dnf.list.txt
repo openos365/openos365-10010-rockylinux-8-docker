@@ -2892,7 +2892,7 @@ editline-devel.x86_64                                             1.17.1-2.el8  
 editorconfig.x86_64                                               0.12.6-1.el8                                                      epel      
 editorconfig-devel.x86_64                                         0.12.6-1.el8                                                      epel      
 editorconfig-libs.x86_64                                          0.12.6-1.el8                                                      epel      
-edk2-ovmf.noarch                                                  20220126gitbb1bba3d77-6.el8_9.3                                   appstream 
+edk2-ovmf.noarch                                                  20220126gitbb1bba3d77-6.el8_9.6                                   appstream 
 ee4j-parent.noarch                                                1.0.1-2.module+el8.5.0+676+5f023c1e                               appstream 
 efibootmgr.x86_64                                                 16-1.el8                                                          baseos    
 efifs.x86_64                                                      1.9-1.el8                                                         epel      
