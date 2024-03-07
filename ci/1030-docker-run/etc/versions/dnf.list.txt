@@ -2338,7 +2338,7 @@ cpanspec.noarch                                                   1.78-27.el8   
 cpp-hocon.x86_64                                                  0.2.1-2.el8                                                       epel      
 cpp-hocon-devel.x86_64                                            0.2.1-2.el8                                                       epel      
 cpp-httplib-devel.x86_64                                          0.12.5-1.el8                                                      epel      
-cpp-jwt-devel.x86_64                                              1.4-6.el8                                                         epel      
+cpp-jwt-devel.x86_64                                              1.4-7.el8                                                         epel      
 cppad-devel.x86_64                                                20220000.4-1.el8                                                  epel      
 cppad-doc.noarch                                                  20220000.4-1.el8                                                  epel      
 cpphs.x86_64                                                      1.20.8-4.el8                                                      epel      
@@ -2781,11 +2781,11 @@ dpdk-tools.x86_64                                                 21.11-3.el8   
 dpkg-dev.noarch                                                   1.20.9-4.el8                                                      epel      
 dpkg-devel.x86_64                                                 1.20.9-4.el8                                                      epel      
 dpkg-perl.noarch                                                  1.20.9-4.el8                                                      epel      
-dr_flac-devel.noarch                                              0.12.41-0.23.20231010gitd35a3bc.el8                               epel      
-dr_libs-devel.noarch                                              0-0.23.20231010gitd35a3bc.el8                                     epel      
-dr_libs-doc.noarch                                                0-0.23.20231010gitd35a3bc.el8                                     epel      
-dr_mp3-devel.noarch                                               0.6.37-0.23.20231010gitd35a3bc.el8                                epel      
-dr_wav-devel.noarch                                               0.13.12-0.23.20231010gitd35a3bc.el8                               epel      
+dr_flac-devel.noarch                                              0.12.42-0.24.20240227gitda35f9d.el8                               epel      
+dr_libs-devel.noarch                                              0-0.24.20240227gitda35f9d.el8                                     epel      
+dr_libs-doc.noarch                                                0-0.24.20240227gitda35f9d.el8                                     epel      
+dr_mp3-devel.noarch                                               0.6.39-0.24.20240227gitda35f9d.el8                                epel      
+dr_wav-devel.noarch                                               0.13.16-0.24.20240227gitda35f9d.el8                               epel      
 dracut-caps.x86_64                                                049-228.git20230802.el8                                           baseos    
 dracut-config-generic.x86_64                                      049-228.git20230802.el8                                           baseos    
 dracut-config-rescue.x86_64                                       049-228.git20230802.el8                                           baseos    
@@ -15621,7 +15621,7 @@ supybot-fedora.noarch                                             0.5.3-1.el8   
 supybot-koji.noarch                                               0.3-1.el8                                                         epel      
 supybot-meetbot.noarch                                            0.4-1.el8                                                         epel      
 supybot-notify.noarch                                             0.3-1.el8                                                         epel      
-suricata.x86_64                                                   6.0.15-1.el8                                                      epel      
+suricata.x86_64                                                   6.0.16-1.el8                                                      epel      
 sushi.x86_64                                                      3.28.3-1.el8                                                      appstream 
 svgpart.x86_64                                                    22.04.1-1.el8                                                     epel      
 svt-av1.x86_64                                                    0.8.7-1.el8                                                       epel      
