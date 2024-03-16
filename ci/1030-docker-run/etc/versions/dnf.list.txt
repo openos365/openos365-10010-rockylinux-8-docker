@@ -2709,8 +2709,8 @@ dnf-plugin-subscription-manager.x86_64                            1.28.40-1.el8_
 dnscrypt-proxy.x86_64                                             2.1.1-1.el8                                                       epel      
 dnsgen.noarch                                                     1.0.4-1.el8                                                       epel      
 dnsmap.x86_64                                                     0.30-18.el8                                                       epel      
-dnsmasq.x86_64                                                    2.79-31.el8                                                       appstream 
-dnsmasq-utils.x86_64                                              2.79-31.el8                                                       appstream 
+dnsmasq.x86_64                                                    2.79-31.el8_9.2                                                   appstream 
+dnsmasq-utils.x86_64                                              2.79-31.el8_9.2                                                   appstream 
 dnsperf.x86_64                                                    2.12.0-1.el8                                                      epel      
 dnssec-trigger.x86_64                                             0.15-4.el8                                                        appstream 
 dnssec-trigger-panel.x86_64                                       0.15-4.el8                                                        appstream 
