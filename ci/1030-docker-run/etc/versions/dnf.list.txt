@@ -56,7 +56,7 @@ dbus-daemon.x86_64                                                1:1.12.8-26.el
 dbus-glib.x86_64                                                  0.110-2.el8                                                       @baseos   
 dbus-libs.x86_64                                                  1:1.12.8-26.el8                                                   @System   
 dbus-tools.x86_64                                                 1:1.12.8-26.el8                                                   @System   
-debootstrap.noarch                                                1.0.127-3.el8                                                     @epel     
+debootstrap.noarch                                                1.0.134-1.el8                                                     @epel     
 device-mapper.x86_64                                              8:1.02.181-13.el8_9                                               @System   
 device-mapper-event.x86_64                                        8:1.02.181-13.el8_9                                               @baseos   
 device-mapper-event-libs.x86_64                                   8:1.02.181-13.el8_9                                               @baseos   
@@ -64,7 +64,7 @@ device-mapper-libs.x86_64                                         8:1.02.181-13.
 device-mapper-persistent-data.x86_64                              0.9.0-7.el8                                                       @baseos   
 diffstat.x86_64                                                   1.61-7.el8                                                        @appstream
 diffutils.x86_64                                                  3.6-6.el8                                                         @baseos   
-distribution-gpg-keys.noarch                                      1.100-1.el8                                                       @epel     
+distribution-gpg-keys.noarch                                      1.102-1.el8                                                       @epel     
 dnf.noarch                                                        4.7.0-19.el8                                                      @System   
 dnf-data.noarch                                                   4.7.0-19.el8                                                      @System   
 dnf-plugins-core.noarch                                           4.0.21-23.el8                                                     @baseos   
@@ -1890,7 +1890,7 @@ c4fs.x86_64                                                       0.0.1^20220819
 c4fs-devel.x86_64                                                 0.0.1^20220819git3b5bafa-4.el8                                    epel      
 c4log.x86_64                                                      0.0.1^20220818gitc9477dc-5.el8                                    epel      
 c4log-devel.x86_64                                                0.0.1^20220818gitc9477dc-5.el8                                    epel      
-c4project.noarch                                                  0^20230525gita1f9d73-1.el8                                        epel      
+c4project.noarch                                                  0^20230525gita1f9d73-3.el8                                        epel      
 cabal-install.x86_64                                              2.0.0.1-11.el8                                                    epel      
 cabal-rpm.x86_64                                                  0.13.3-1.el8                                                      epel      
 cabextract.x86_64                                                 1.9-7.el8                                                         epel      
@@ -2662,7 +2662,7 @@ dist-git-selinux.noarch                                           1.16-3.el8    
 distcc.x86_64                                                     3.3.3-3.el8                                                       epel      
 distcc-server.x86_64                                              3.3.3-3.el8                                                       epel      
 distgen.noarch                                                    1.17-1.el8                                                        epel      
-distribution-gpg-keys-copr.noarch                                 1.100-1.el8                                                       epel      
+distribution-gpg-keys-copr.noarch                                 1.102-1.el8                                                       epel      
 distrobox.noarch                                                  1.6.0.1-1.el8                                                     epel      
 djvulibre.x86_64                                                  3.5.28-3.el8                                                      epel      
 djvulibre-devel.x86_64                                            3.5.28-3.el8                                                      epel      

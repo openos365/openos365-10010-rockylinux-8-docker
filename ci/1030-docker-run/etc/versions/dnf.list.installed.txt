@@ -54,7 +54,7 @@ dbus-daemon.x86_64                          1:1.12.8-26.el8                     
 dbus-glib.x86_64                            0.110-2.el8                                @baseos   
 dbus-libs.x86_64                            1:1.12.8-26.el8                            @System   
 dbus-tools.x86_64                           1:1.12.8-26.el8                            @System   
-debootstrap.noarch                          1.0.127-3.el8                              @epel     
+debootstrap.noarch                          1.0.134-1.el8                              @epel     
 device-mapper.x86_64                        8:1.02.181-13.el8_9                        @System   
 device-mapper-event.x86_64                  8:1.02.181-13.el8_9                        @baseos   
 device-mapper-event-libs.x86_64             8:1.02.181-13.el8_9                        @baseos   
@@ -62,7 +62,7 @@ device-mapper-libs.x86_64                   8:1.02.181-13.el8_9                 
 device-mapper-persistent-data.x86_64        0.9.0-7.el8                                @baseos   
 diffstat.x86_64                             1.61-7.el8                                 @appstream
 diffutils.x86_64                            3.6-6.el8                                  @baseos   
-distribution-gpg-keys.noarch                1.100-1.el8                                @epel     
+distribution-gpg-keys.noarch                1.102-1.el8                                @epel     
 dnf.noarch                                  4.7.0-19.el8                               @System   
 dnf-data.noarch                             4.7.0-19.el8                               @System   
 dnf-plugins-core.noarch                     4.0.21-23.el8                              @baseos   
